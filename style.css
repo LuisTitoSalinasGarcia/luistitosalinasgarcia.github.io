@@ -46,14 +46,6 @@ body{
 
 }
 
-.myArt{
-    position: relative;
-    display: none;
-    width: 80%;
-    left:10%;
-    border-radius: 10px;
-}
-
 .title{
     font-family: 'Satisfy', cursive;
     font-size: 30px;
